@@ -5,10 +5,6 @@ Advanced machine learning techniques, such as deep neural networks (DNN), have a
 MMSP is one of the flagship conferences focusing on the multimedia signal processing. As the most prevalent multimodal signal format, how to process the multimedia signals by the multimodal machine learning model is highly desired by the applications, such as augmented reality, affective computing, scene understanding. Multimodal machine learning would
 therefore be one of the most relevant and interesting topics for the MMSP conference.
 
-You can use the [editor on GitHub](https://github.com/wangqifei/MMSP2018_MMML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Areas of Interests
 Possible topics include but not limited to
 ```markdown
@@ -24,38 +20,27 @@ Possible topics include but not limited to
 ### Organizers
 ```markdown
 - Huisheng Wang
-- Qifei Wang
+- Qifei Wang (qifei.wang at gmail.com)
 - Bin Shen
 ```
 
 ### Call for papers
 
-[PDF](https://github.com/wangqifei/MMSP2018_MMML/edit/master/README.md)
+[PDF](https://github.com/wangqifei/MMSP2018_MMML/edit/master/cfp.pdf)
+
+### Important Dates
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Deadline of submitting the paper: Apr 25 2018
+- Notification of paper acceptance: May 30 2018
+- Camera-ready paper due: Jun 15 2018
+- Conference start: Aug 28 2018
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Main conference
 
-### Jekyll Themes
+[MMSP2018](https://www.ece.ubc.ca/~mmsp2018/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangqifei/MMSP2018_MMML/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please contact the organizer if any questions.
