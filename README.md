@@ -28,6 +28,9 @@ Possible topics include but not limited to
 
 [PDF](https://github.com/wangqifei/MMSP2018_MMML/edit/master/cfp_mmml_mmsp2018.pdf)
 
+### Paper Submission
+[Paper submission link](https://www.ece.ubc.ca/~mmsp2018/submission)
+
 ### Important Dates
 
 ```markdown
