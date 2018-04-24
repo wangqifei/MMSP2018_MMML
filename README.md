@@ -26,7 +26,7 @@ Possible topics include but not limited to
 
 ### Call for papers
 
-[PDF](https://github.com/wangqifei/MMSP2018_MMML/edit/master/cfp.pdf)
+[PDF](https://github.com/wangqifei/MMSP2018_MMML/edit/master/cfp_mmml_mmsp2018.pdf)
 
 ### Important Dates
 
