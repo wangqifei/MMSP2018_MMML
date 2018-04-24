@@ -19,9 +19,9 @@ Possible topics include but not limited to
 
 ### Organizers
 ```markdown
-- Huisheng Wang
-- Qifei Wang (qifei.wang at gmail.com)
-- Bin Shen
+- Huisheng Wang (huishengw at google dot com)
+- Qifei Wang (qfwang at google dot com)
+- Bin Shen (bshen at google dot com)
 ```
 
 ### Call for papers
